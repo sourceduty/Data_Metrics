@@ -4,6 +4,7 @@ Data is a collection of information, facts, or figures that can be stored and pr
 
 Sourceduty, a data-driven company, harnesses the power of data for comprehensive analysis, sorting, and visualization to enhance decision-making and drive business growth. Leveraging advanced analytics tools and techniques, Sourceduty meticulously examines vast datasets to uncover valuable insights, patterns, and trends. Through systematic sorting, they categorize data according to relevant parameters, facilitating efficient organization and retrieval. Utilizing cutting-edge visualization methods such as interactive dashboards and dynamic charts, Sourceduty transforms complex data into intuitive and actionable visuals, empowering stakeholders to grasp key information swiftly and make informed strategic decisions with confidence.
 
+#
 ### Example
 
 <details><summary>Car Production Countries</summary>
