@@ -50,6 +50,10 @@ Here are the headquarters locations for each of the five most popular car brands
 
 The dataset analysis reveals that car brand names are commonly 5 to 6 letters long. This trend suggests a preference for conciseness and ease of pronunciation, which can aid in brand recall and global marketability. Brands like Honda, Toyota, and Mazda exemplify this trend, each utilizing a compact and easily recognizable name. Longer names, such as Mitsubishi and Mercedes-Benz, are less frequent but carry distinctive historical or cultural connotations that contribute to strong brand identity. This balance between brevity and meaning in car brand names is a crucial aspect of automotive marketing, reflecting how brands position themselves in a competitive market.
 
+### Data
+
+This [dataset](https://www.kaggle.com/datasets/rifkaregmi/branded-cars-dataset) was used for this analysis.
+
 #
 The 15 most popular car brands in the dataset, based on their frequency, are:
 
