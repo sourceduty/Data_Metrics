@@ -1,0 +1,5 @@
+This dataset encompasses information on three main aspects related to automobiles: (a) detailed specifications capturing various characteristics of the vehicle, (b) the insurance risk rating assigned to each car, and (c) normalized losses incurred during use compared to other cars. The second rating reflects the extent to which an automobile carries more risk than its price suggests. Initially, cars are assigned a risk factor symbol based on their price, and this symbol may be adjusted upward or downward through a process known as "symbolling" to account for additional risk. A +3 value implies higher risk, while -3 indicates a potentially safer vehicle.
+
+The third factor in the dataset represents the normalized average loss payment per insured vehicle year, considering variations across different size classifications (e.g., two-door small, station wagons, sports/specialty vehicles). This value reflects the average loss experienced per car per year. It's worth noting that some attributes within the database could potentially serve as a "class" attribute.
+
+https://www.kaggle.com/datasets/rifkaregmi/branded-cars-dataset
